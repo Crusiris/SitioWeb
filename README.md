@@ -2,6 +2,14 @@
 
 Sitio web Desarrollado con tecnologia Html, CSS Y JQUERY
 
+## Layout One
+
+![Sitio Web-con-HTML,CSS Y JQUERY](https://github.com/Crusiris/SitioWeb/blob/master/images/SitioWeb.PNG)
+
+## Layout Two
+
+![Sitio Web-con-HTML,CSS Y JQUERY](https://github.com/Crusiris/SitioWeb/blob/master/images/Sitio.PNG)
+
 Prerequisites
 
 Unicamente es necesario contar con un Editor de contenidos en mi caso Utilice Visual Studio Code, Y un Navegador web, en mi caso Utilice Google chrome.
